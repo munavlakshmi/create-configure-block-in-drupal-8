@@ -1,0 +1,5 @@
+name: configure_block
+type: module
+description: This is a my first first configure block.
+core: 8.x
+package: Custom
